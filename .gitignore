@@ -83,6 +83,9 @@ ipch/
 *.vsp
 *.vspx
 
+# Visual Studio 2015 & 2017
+.vs/
+
 # TFS 2012 Local Workspace
 $tf/
 
