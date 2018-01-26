@@ -16,6 +16,7 @@ namespace ProgrammingBlockchain
 
             // call the lesson here
             chapter.Lesson1();
+            chapter.Lesson2(chapter.ScriptPubkeyValue);
 
             // this will hold the window open for you to read the output
             Console.WriteLine("\n\n\nPress enter to continue.");
